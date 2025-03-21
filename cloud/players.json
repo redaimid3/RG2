@@ -1,0 +1,41 @@
+{
+	"gamesData": {
+		"2000000001": {
+			"id": 2000000001,
+			"convOwner": 376393143,
+			"convData": {
+				"type": "player",
+				"gamemode": null,
+				"isActive": false,
+				"usersBets": {},
+				"history": {},
+				"games": 0,
+				"admin_earn": 0,
+				"peer_procent": 0,
+				"active_timer": 0,
+				"userStatisticsBet": {
+					"amountWeek": 0,
+					"amountDay": 0,
+					"amountAll": 0,
+					"betAll": {},
+					"betDay": {},
+					"betWeek": {}
+				}
+			},
+			"convGame": {
+				"amount": 0,
+				"timeNow": 60,
+				"pictureGame": null,
+				"resultData": {
+					"hash": null,
+					"secret": null,
+					"result": null
+				},
+				"bets": {}
+			},
+			"convSettings": {
+				"maxTime": 60
+			}
+		}
+	}
+}
